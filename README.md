@@ -7,7 +7,8 @@ This project aims to detect drones using machine learning. The main principle is
 
 ## project structure
 <pre>
-├──README.md
+Project_TCEs/
+├─README.md
 ├─audio_file
 │   ├─Drone_high5m_25m.wav(example)
 │   └─Naturalsound.wav(example)
