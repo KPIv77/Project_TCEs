@@ -5,6 +5,7 @@
 
 This project aims to detect drones using machine learning. The main principle is sound-based detection. It begins by collecting audio samples of drone flight sounds and non-drone sounds, then converting them into spectrogram graphs for analysis. The system then compares the sound patterns between drone flight and non-flight conditions.
 
+## project structure
 <pre>
 ├──README.md
 ├─audio_file
