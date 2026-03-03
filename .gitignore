@@ -1,2 +1,5 @@
 venv/
 audio_file/
+dataset/
+setfile/
+sample_noise/
