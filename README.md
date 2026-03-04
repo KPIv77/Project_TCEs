@@ -14,6 +14,13 @@ Project_TCEs/
 │   └─Naturalsound.wav(example)
 ├─data_cleaning/
 │   └─Plot_spectrogram.ipynb
+├─dataset/
+│   ├─train/
+│   │   ├─drone/
+│   │   └─non-drone/ 
+│   └─val/
+│   │   ├─drone/
+│   │   └─non-drone/
 └─src/ 
     └─main
     
