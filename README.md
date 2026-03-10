@@ -10,8 +10,8 @@ This project aims to detect drones using machine learning. The main principle is
 Project_TCEs/
 ├─README.md
 ├─audio_file/
-│   ├─Drone_high5m_25m.wav(example)
-│   └─Naturalsound.wav(example)
+│   ├─drone/
+│   └─non-drone/ 
 ├─data_cleaning/
 │   └─Plot_spectrogram.ipynb
 ├─dataset/
@@ -19,8 +19,10 @@ Project_TCEs/
 │   │   ├─drone/
 │   │   └─non-drone/ 
 │   └─val/
-│   │   ├─drone/
-│   │   └─non-drone/
+│       ├─drone/
+│       └─non-drone/
+├─sample/ 
+│ 
 └─src/ 
     └─main
     
