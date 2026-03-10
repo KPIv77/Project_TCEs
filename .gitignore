@@ -4,3 +4,4 @@ dataset/
 setfile/
 sample_noise/
 image_classifier.keras
+sample/
